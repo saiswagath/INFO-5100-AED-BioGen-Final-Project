@@ -19,7 +19,7 @@
 * INVOLVING PATIENTS FOR CLINICAL TRIALS.
 * PROVIDE A DASHBOARD FOR BIOGEN TO VIEW SALES OF MEDCINE, PREDOMIDANT GENE IN ALL DISEASES AND COMMON DISEASE IN A NETWORK.
 
-# CONCLUSION
+# Conclusion
 
 * We believe that adopting a common global data standard and upgrading healthcare value system would benefit Bio-Gen eco-system in further improvements of patient care. 
 * Also, safer and cost-effective healthcare can be provided to millions of patients across the country.
